@@ -1,0 +1,10 @@
+google.com - Google
+cambridge.org - Cam
+facebook.com - FB
+amazon.com - Amazon
+wikipedia.org - Wikipedia
+twitter.com - Twitter/X
+x.com - X
+netflix.com - Netflix
+instagram.com - Insta
+cnn.com - CNN
