@@ -13,7 +13,6 @@ To start the program,
 ```
 cd dnsspeedtest
 python dnsspeedtest.py
-
 ```
 If you want to add a DNS server Open the "dnsserver.txt" file and add an entry in the format "1.1.1.1 - Cloudflare" (i.e. x.x.x.x(space)-(space)name)
 
