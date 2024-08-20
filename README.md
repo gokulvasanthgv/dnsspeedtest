@@ -6,6 +6,7 @@ A python script to plot dns latency to csv file
 ## Usage
 Open a terminal in the folder you want then type
 ```
+pip install dnspython
 git clone https://github.com/gokulvasanthgv/dnsspeedtest.git
 ```
 Make sure you have python installed.
