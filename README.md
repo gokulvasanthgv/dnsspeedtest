@@ -3,9 +3,20 @@
 A python script to plot dns latency to csv file
 
 
+## Windows Executable
+
+For Windows there is also an Executable in the Releases Tab 
+
+https://github.com/gokulvasanthgv/dnsspeedtest/releases/download/Release/dnsspeedtest.zip
+
+Download this zip file and extract. There will be an executable file. Double click dnsspeedtest.exe to run it.
+
+You can modify the dnsserver.txt and domains.txt like you need (instructions given below)
+
 ## Usage
+
 This is similar for Windows and Linux.
-For Windows there is also an Executable(exe) in the Releases Tab https://github.com/gokulvasanthgv/dnsspeedtest/releases/download/Release/dnsspeedtest.zip
+
 Open a terminal in the folder you want then type
 ```
 git clone https://github.com/gokulvasanthgv/dnsspeedtest.git
