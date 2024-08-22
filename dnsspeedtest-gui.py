@@ -1,5 +1,4 @@
 import dns.resolver
-import sys
 import time
 import os
 from datetime import datetime
