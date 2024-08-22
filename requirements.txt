@@ -1,0 +1,4 @@
+tk
+dnspython
+tqdm
+openpyxl
